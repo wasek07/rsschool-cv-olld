@@ -9,8 +9,7 @@
 
 
 ### About me ###
-* I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
-I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
+* I am good at independent work also have good teamwork skills and very willing to learn and develop new skills.
 
 ### Skills ###
 * HTML5, CSS3
