@@ -2,7 +2,7 @@
 #
 ## Junior frontend developer ##
 ### Contacts ###
-* **Location:** Warsaw, Poland
+* **Location:** Bialystok, Poland
 * **Phone:** +48 696 695 105
 * **E-mail:** w.talstyko@gmail.com
 * **GitHub:** wasek07
@@ -19,13 +19,20 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * Adobe Photoshop
 * Git, GitHub
 
-### Code Exemple ###
-> function sum(a, b) {
->  return a + b;
-> }
+### Code Example ###
+>function solution(str, ending){
 >
-> let result = sum(1, 2);
-> alert( result );
+>if(ending == str.substr(str.length - ending.length)){
+>
+> return true;
+> 
+>}else{
+>
+> return false;
+> 
+>}
+>
+>}
 ### Education ###
 * Mogilev State University of Food Technologies, mechanical engineer
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
