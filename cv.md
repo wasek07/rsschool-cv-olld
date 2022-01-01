@@ -1,5 +1,5 @@
 ## **Vasili Talstyka** ##
-#
+
 ## Junior frontend developer ##
 ### Contacts ###
 * **Location:** Bialystok, Poland
