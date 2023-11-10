@@ -2,7 +2,7 @@
 
 ## Junior frontend developer ##
 ### Contacts ###
-* **Location:** Bialystok, Poland
+* **Location:** Gdańsk, Poland
 * **Phone:** +48 696 695 105
 * **E-mail:** w.talstyko@gmail.com
 * **GitHub:** wasek07
@@ -15,7 +15,7 @@
 * HTML5, CSS3
 * JavaScript (Basic)
 * VS Code
-* Adobe Photoshop
+* Figma, Adobe Photoshop
 * Git, GitHub
 
 ### Code Example ###
@@ -35,10 +35,11 @@
 >
 ### Education ###
 * Mogilev State University of Food Technologies, mechanical engineer
-* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 0»
+* * RS Schools Course «JavaScript/Front-end» 
 
 ### Languages ###
 * Russian - Native
 * Belarusian - Native
 * Polish - B2
-* English - Basic
+* English - A2
