@@ -2,7 +2,7 @@
 
 ## Junior frontend developer ##
 ### Contacts ###
-* **Location:** Bialystok, Poland
+* **Location:** Gdańsk, Poland
 * **Phone:** +48 696 695 105
 * **E-mail:** w.talstyko@gmail.com
 * **GitHub:** wasek07
@@ -15,7 +15,7 @@
 * HTML5, CSS3
 * JavaScript (Basic)
 * VS Code
-* Adobe Photoshop
+* Figma, Adobe Photoshop
 * Git, GitHub
 
 ### Code Example ###
@@ -41,4 +41,4 @@
 * Russian - Native
 * Belarusian - Native
 * Polish - B2
-* English - Basic
+* English - A2
